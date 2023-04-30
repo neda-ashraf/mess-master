@@ -10,8 +10,8 @@
 ## 🗒️Problem statement
 
 - All tasks, including user registration and billing, are performed manually
-- Billing required hours of calculation.
-- Users lacked the ability to choose individual meals and had to select their mess preferences for the entire day
+- Billing requires hours of calculation.
+- Users lacks the ability to choose individual meals and has to select their mess preferences for the entire day
 - Poor mess management could result in substantial food waste
 - Manual processes increased the risk of errors in billing and other operations
 - The user is unable to locate a suitable mess in an unfamiliar city
