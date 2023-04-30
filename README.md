@@ -56,7 +56,9 @@ We are presenting a web application for mess management that facilitates the han
  
 🔗 [View Demo](https://drive.google.com/file/d/1hpyfS-n_Ajj5bxVh68Y3Vg1AaL0UOrsq/view?usp=drivesdk)
   
-## Screenshots of the code
+## Screenshot of the code
+  
+  ![b1266295-b26c-48c4-9b77-b6f6d22e32c9](https://user-images.githubusercontent.com/83908849/235335337-576c28ab-630c-490c-be8f-5d51adac4a38.jpg)
 
 ## 💻Tech Stacks used 
 
